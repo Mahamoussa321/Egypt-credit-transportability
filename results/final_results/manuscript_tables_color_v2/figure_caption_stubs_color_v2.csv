@@ -1,0 +1,10 @@
+file,caption
+figure1_target_prevalence_by_wave_color_v2,Prevalence of the three study outcomes across Egypt Enterprise Survey waves.
+figure2_2025_transport_rocauc_by_target_model_color_v2,Comparison of 2025 holdout ROC AUC across targets and model classes.
+figure3a_objective_targets_rocauc_color_v2,ROC AUC for the objective outcomes under competing model specifications.
+figure3b_objective_targets_prauc_color_v2,PR AUC for the objective outcomes under competing model specifications.
+figure4_recency_ablation_target_formal_credit_color_v2,Recency ablation for formal credit access.
+figure4_recency_ablation_target_applied_credit_color_v2,Recency ablation for credit application.
+figure5_repeated_seed_objective_targets_color_v2,Repeated-seed summary for the objective outcomes.
+figure6_top_subgroups_target_formal_credit_color_v2,Top sector subgroups for formal credit access.
+figure6_top_subgroups_target_applied_credit_color_v2,Top sector subgroups for credit application.

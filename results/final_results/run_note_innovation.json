@@ -1,0 +1,26 @@
+{
+  "input": ".\\data\\processed\\egypt_combined_targets_pooled_clean.csv",
+  "sme_only": false,
+  "xgboost_installed": true,
+  "wave_col": "survey_year",
+  "outcomes": {
+    "target_k30": "target_k30",
+    "target_formal_credit": "target_formal_credit",
+    "target_applied_credit": "target_applied_credit"
+  },
+  "core_predictors_used": [
+    "firm_age",
+    "log_sales",
+    "survey_year"
+  ],
+  "rich_predictors_used": [
+    "firm_age",
+    "log_sales",
+    "survey_year",
+    "innov_new_product",
+    "innov_new_process",
+    "innov_rd_investment",
+    "innov_any",
+    "innov_count"
+  ]
+}

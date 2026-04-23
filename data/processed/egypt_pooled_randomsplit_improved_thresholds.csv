@@ -1,0 +1,6 @@
+scenario,variable,threshold,cv_auc_when_added
+egypt_pooled_randomsplit,j2,1.0,0.6264316665488298
+egypt_pooled_randomsplit,log_sales,15.096444681204078,0.6240588549478782
+egypt_pooled_randomsplit,log_size,4.18965482711792,0.6225661417398758
+egypt_pooled_randomsplit,k3a,70.0,0.6382333418718963
+egypt_pooled_randomsplit,firm_age,18.0,0.6239518266366925

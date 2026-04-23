@@ -1,0 +1,6 @@
+scenario,variable,threshold,cv_auc_when_added
+egypt_pooled_2025holdout,j2,1.0,0.6462122111293308
+egypt_pooled_2025holdout,log_sales,14.946912992035967,0.6433659457801082
+egypt_pooled_2025holdout,log_size,4.255587559545337,0.6448642686566507
+egypt_pooled_2025holdout,k3a,70.0,0.662485511017419
+egypt_pooled_2025holdout,firm_age,18.0,0.6436159595404332

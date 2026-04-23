@@ -1,0 +1,6 @@
+file,caption
+figure1_target_prevalence_by_wave_innovation,Prevalence of the three study outcomes across Egypt Enterprise Survey waves.
+figure1b_innovation_prevalence_by_wave,Prevalence of innovation indicators across Egypt Enterprise Survey waves.
+figure2_2025_transport_rocauc_by_target_model_innovation,Comparison of 2025 holdout ROC AUC across targets and model classes after adding innovation to the rich specification.
+figure3_innovation_odds_ratios_formal,Odds ratios for innovation-related predictors in the rich logistic model for formal credit access.
+figure3_innovation_odds_ratios_applied,Odds ratios for innovation-related predictors in the rich logistic model for credit application.
